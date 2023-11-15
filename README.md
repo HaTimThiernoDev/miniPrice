@@ -9,16 +9,8 @@ Ce projet est une application console en C# utilisant .NET pour calculer le prix
 ## Installation
 Cloner le dépôt :
 ```
-git clone [URL du dépôt]
-```
-
-Naviguer dans le dossier du projet :
-```
-cd [Nom du dossier]
+git clone https://github.com/HaTimThiernoDev/miniPrice.git
 ```
 
 ## Utilisation
-Pour lancer l'application :
-```
-dotnet run
-```
+A lancer avec Visual Studio
